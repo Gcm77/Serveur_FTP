@@ -1,2 +1,3 @@
 # Serveur_FTP
-A C program simulating a FTP server with HTTP protocole like
+C-based FTP Server | Systems & Networks Project
+A custom File Transfer Protocol implementation developed in C. This project features a client-server architecture using TCP sockets, allowing multiple users to navigate directories and transfer files (Upload/Download) securely.
